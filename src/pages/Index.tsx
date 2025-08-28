@@ -21,9 +21,12 @@ const Index = () => {
   ];
 
   const teachers = [
-    { name: 'Иванова М.П.', subject: 'Математика', experience: '15 лет' },
-    { name: 'Петров С.А.', subject: 'Физика', experience: '12 лет' },
-    { name: 'Сидорова Л.И.', subject: 'Русский язык', experience: '18 лет' },
+    { name: 'Смирнова Е.В.', subject: 'Математика', experience: '12 лет' },
+    { name: 'Козлов А.И.', subject: 'Физика', experience: '8 лет' },
+    { name: 'Новикова О.С.', subject: 'Русский язык', experience: '20 лет' },
+    { name: 'Морозов В.П.', subject: 'История', experience: '25 лет' },
+    { name: 'Лебедева Т.А.', subject: 'Биология', experience: '14 лет' },
+    { name: 'Волков М.Ю.', subject: 'Химия', experience: '16 лет' },
   ];
 
   const news = [
